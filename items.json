@@ -2,13 +2,13 @@
   {
     "id": 1,
     "name": "Toy Car",
-    "price": 10,
+    "price": "$50",
     "size": "small"
   },
-  
+
   {
     "name": "Rice",
-    "price": "$10000000",
+    "price": "$100",
     "size": "Big",
     "id": 2
   }
