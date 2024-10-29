@@ -1,7 +1,9 @@
 Node.js Inventory and Web Server Assignment 🎉
+
 Welcome to the Node.js Assignment! This project showcases a foundational server setup using Node.js, without any frameworks, to demonstrate pure JavaScript skills in managing HTTP requests and file system interactions. Dive in to see how we can build a server from scratch and manage an inventory system through custom APIs!
 
 Project Overview 📜
+
 This project consists of two primary functionalities:
 
 Simple HTML Server:
@@ -27,19 +29,15 @@ File System (fs) for data storage in items.json
 HTML for the simple webpage display
 
 Getting Started 🚀
-Clone this repository:
 
-Copy code
-git clone https://github.com/yourusername/Nodejs-Inventory-Server.git
+Clone this repository:
+git clone https://github.com/Sodiq-049/Node.js-Assignment.git
 cd Nodejs-Inventory-Server
 
 Run the Server:
-
-Copy code
 node server.js
 
 Access the Server:
-
 HTML Page: http://localhost:3000/index.html
 API Endpoints: e.g., http://localhost:3000/api/items
 
